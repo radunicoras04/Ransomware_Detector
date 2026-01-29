@@ -1,0 +1,26 @@
+watch_paths:
+  - ./test_folder
+
+safe_zone: ./safe_zone_backups
+log_file: ./activity.log
+
+honeyfiles:
+  enabled: true
+  count: 5
+  prefix: ".honey_"
+  extensions: [".docx", ".pdf", ".jpg"]
+
+detection:
+  time_window_sec: 3
+  burst_events_threshold: 25
+  rename_threshold: 10
+  entropy_jump_threshold: 0.20   # 0..1 scale (approx)
+  suspicious_score_threshold: 3  # how many rules must fire
+
+response:
+  kill_process: true
+
+dashboard:
+  enabled: true
+  host: "127.0.0.1"
+  port: 5000

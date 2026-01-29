@@ -65,3 +65,80 @@
 2026-01-16 11:30:55,072 - ransomware_detector - INFO - EVENT: modified | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt
 2026-01-16 11:30:55,073 - ransomware_detector - INFO - INTEGRITY: baseline | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt | sha256=8f51a83ed428...
 2026-01-21 19:58:05,604 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-29 18:13:31,641 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-29 18:18:00,842 - ransomware_detector - INFO - EVENT: modified | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt
+2026-01-29 18:18:00,844 - ransomware_detector - INFO - INTEGRITY: baseline | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt | sha256=0a6f1545180a...
+2026-01-29 18:21:15,762 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_12.txt
+2026-01-29 18:21:15,764 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_7.txt
+2026-01-29 18:21:15,764 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_9.txt
+2026-01-29 18:21:15,764 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_16.txt
+2026-01-29 18:21:15,764 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_6.txt
+2026-01-29 18:21:15,764 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_5.txt
+2026-01-29 18:21:15,764 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_8.txt
+2026-01-29 18:21:15,765 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_2.txt
+2026-01-29 18:21:15,765 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_14.txt
+2026-01-29 18:21:15,765 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_4.txt
+2026-01-29 18:21:15,765 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_3.txt
+2026-01-29 18:21:15,765 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_17.txt
+2026-01-29 18:21:15,765 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_19.txt
+2026-01-29 18:21:15,765 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_11.txt
+2026-01-29 18:21:15,766 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_1.txt
+2026-01-29 18:21:15,766 - ransomware_detector - WARNING - ALERT: suspicious behavior detected | window=3s | writes=15 renames=0 | triggers=['burst_writes=15/15']
+2026-01-29 18:21:15,766 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_13.txt
+2026-01-29 18:21:15,766 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_15.txt
+2026-01-29 18:21:15,766 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_20.txt
+2026-01-29 18:21:15,766 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_18.txt
+2026-01-29 18:21:15,767 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/file_10.txt
+2026-01-30 00:27:46,539 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-30 01:34:58,625 - ransomware_detector - INFO - ============================================================
+2026-01-30 01:34:58,625 - ransomware_detector - INFO - [INIT] Ransomware Detector Starting
+2026-01-30 01:34:58,625 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-30 01:34:58,625 - ransomware_detector - INFO - ============================================================
+2026-01-30 01:34:58,626 - ransomware_detector - INFO - [HONEYFILES] Created 5 decoy files in /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/.honeyfiles
+2026-01-30 01:34:58,626 - ransomware_detector - INFO - [HONEYFILES] - .honey_Confidential_0.jpg
+2026-01-30 01:34:58,626 - ransomware_detector - INFO - [HONEYFILES] - .honey_Personal_Documents_1.txt
+2026-01-30 01:34:58,626 - ransomware_detector - INFO - [HONEYFILES] - .honey_Personal_Documents_2.txt
+2026-01-30 01:34:58,626 - ransomware_detector - INFO - [HONEYFILES] - .honey_Financial_Report_3.jpg
+2026-01-30 01:34:58,626 - ransomware_detector - INFO - [HONEYFILES] - .honey_Financial_Report_4.txt
+2026-01-30 01:34:58,626 - ransomware_detector - INFO - [ANALYZER] Thresholds: writes=15, renames=6, window=3s
+2026-01-30 01:34:58,627 - ransomware_detector - INFO - ============================================================
+2026-01-30 01:34:58,627 - ransomware_detector - INFO - [RUNNING] Ransomware detector is now active
+2026-01-30 01:34:58,627 - ransomware_detector - INFO - [RUNNING] Monitoring for suspicious activity...
+2026-01-30 01:34:58,627 - ransomware_detector - INFO - [RUNNING] Honeyfiles deployed and monitored
+2026-01-30 01:34:58,627 - ransomware_detector - INFO - [RUNNING] Press Ctrl+C to stop
+2026-01-30 01:34:58,627 - ransomware_detector - INFO - ============================================================
+2026-01-30 01:36:25,097 - ransomware_detector - INFO - EVENT: moved | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/.honeyfiles/.honey_Financial_Report_4.txt -> /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/.honeyfiles/.honey_Financial_Report_444.txt
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - 
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - ============================================================
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - CRITICAL ALERT: HONEYFILE VIOLATION DETECTED! 🚨
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - ============================================================
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - This is a strong indicator of ransomware activity!
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - Honeyfiles are decoy files that should NEVER be modified.
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - 
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - VIOLATION: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/.honeyfiles/.honey_Financial_Report_4.txt (DELETED)
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - 
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - RECOMMENDATION: Immediately investigate this activity!
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - Consider disconnecting from network and running antivirus.
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - ============================================================
+2026-01-30 01:36:25,098 - ransomware_detector - WARNING - 
+2026-01-30 01:36:25,098 - ransomware_detector - INFO - [HONEYFILES] Attempting to restore violated honeyfiles...
+2026-01-30 01:36:25,099 - ransomware_detector - INFO - [HONEYFILES] ✓ Restored: .honey_Financial_Report_4.txt
+2026-01-30 01:36:26,104 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/.honeyfiles/.honey_Financial_Report_4.txt
+2026-01-30 01:36:54,261 - ransomware_detector - INFO - EVENT: deleted | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/.honeyfiles/.honey_Financial_Report_444.txt
+2026-01-30 01:37:00,293 - ransomware_detector - INFO - EVENT: deleted | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/.honeyfiles/.honey_Financial_Report_3.jpg
+2026-01-30 01:37:00,293 - ransomware_detector - WARNING - 
+2026-01-30 01:37:00,293 - ransomware_detector - WARNING - ============================================================
+2026-01-30 01:37:00,293 - ransomware_detector - WARNING - CRITICAL ALERT: HONEYFILE VIOLATION DETECTED! 🚨
+2026-01-30 01:37:00,294 - ransomware_detector - WARNING - ============================================================
+2026-01-30 01:37:00,294 - ransomware_detector - WARNING - This is a strong indicator of ransomware activity!
+2026-01-30 01:37:00,294 - ransomware_detector - WARNING - Honeyfiles are decoy files that should NEVER be modified.
+2026-01-30 01:37:00,294 - ransomware_detector - WARNING - 
+2026-01-30 01:37:00,294 - ransomware_detector - WARNING - VIOLATION: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/.honeyfiles/.honey_Financial_Report_3.jpg (DELETED)
+2026-01-30 01:37:00,294 - ransomware_detector - WARNING - 
+2026-01-30 01:37:00,294 - ransomware_detector - WARNING - RECOMMENDATION: Immediately investigate this activity!
+2026-01-30 01:37:00,294 - ransomware_detector - WARNING - Consider disconnecting from network and running antivirus.
+2026-01-30 01:37:00,294 - ransomware_detector - WARNING - ============================================================
+2026-01-30 01:37:00,294 - ransomware_detector - WARNING - 
+2026-01-30 01:37:00,294 - ransomware_detector - INFO - [HONEYFILES] Attempting to restore violated honeyfiles...
+2026-01-30 01:37:00,294 - ransomware_detector - INFO - [HONEYFILES] ✓ Restored: .honey_Financial_Report_3.jpg
+2026-01-30 01:37:01,300 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/.honeyfiles/.honey_Financial_Report_3.jpg

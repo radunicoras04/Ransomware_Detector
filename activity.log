@@ -1,0 +1,67 @@
+2026-01-16 10:08:18,300 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:08:18,301 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 10:09:10,194 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 10:09:34,265 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:09:34,266 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 10:13:20,583 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 10:16:45,662 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:16:45,663 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 10:16:59,784 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt
+2026-01-16 10:17:20,818 - ransomware_detector - INFO - EVENT: modified | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt
+2026-01-16 10:17:20,819 - ransomware_detector - INFO - INTEGRITY: baseline | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt | sha256=f7f39f98aa77...
+2026-01-16 10:18:25,351 - ransomware_detector - INFO - EVENT: modified | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt
+2026-01-16 10:18:25,352 - ransomware_detector - INFO - INTEGRITY: changed | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt | sha256=3d092f39c5fc...
+2026-01-16 10:23:07,324 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 10:32:21,015 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:32:21,017 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 10:33:06,667 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 10:33:18,985 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:33:18,986 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 10:35:36,172 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 10:35:39,075 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:35:39,076 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 10:36:10,811 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 10:40:16,150 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:40:16,151 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 10:41:15,742 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:41:15,743 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 10:41:43,293 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 10:45:53,051 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:45:53,052 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 10:46:19,820 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 10:46:26,974 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:46:26,975 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 10:50:00,989 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 10:50:04,728 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 10:50:04,728 - ransomware_detector - INFO - [RUN] Monitoring started. Press Ctrl+C to stop.
+2026-01-16 11:09:06,845 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 11:09:09,876 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 11:09:09,876 - ransomware_detector - INFO - [INIT] Starting ransomware demo (monitor + analyzer + hashing)
+2026-01-16 11:09:09,876 - ransomware_detector - INFO - [RUN] Monitoring started. Modify/create/rename many files to trigger detection.
+2026-01-16 11:09:32,988 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/2.tzt
+2026-01-16 11:09:48,058 - ransomware_detector - INFO - EVENT: deleted | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/2.tzt
+2026-01-16 11:09:58,095 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/2.txt
+2026-01-16 11:10:09,602 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 11:10:12,851 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 11:10:12,851 - ransomware_detector - INFO - [INIT] Starting ransomware demo (monitor + analyzer + hashing)
+2026-01-16 11:10:12,851 - ransomware_detector - INFO - [RUN] Monitoring started. Modify/create/rename many files to trigger detection.
+2026-01-16 11:10:21,889 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/abc.txt
+2026-01-16 11:11:03,060 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 11:11:06,139 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 11:11:24,224 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/abcd.txt
+2026-01-16 11:12:48,691 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 11:13:06,300 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 11:13:19,368 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/123.txt
+2026-01-16 11:13:28,402 - ransomware_detector - INFO - EVENT: deleted | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/abcd.txt
+2026-01-16 11:14:03,553 - ransomware_detector - INFO - EVENT: modified | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/123.txt
+2026-01-16 11:14:03,553 - ransomware_detector - INFO - INTEGRITY: baseline | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/123.txt | sha256=e4a55893faf5...
+2026-01-16 11:14:58,814 - ransomware_detector - INFO - EVENT: modified | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/123.txt
+2026-01-16 11:14:58,815 - ransomware_detector - INFO - INTEGRITY: changed | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/123.txt | sha256=edb411c286c5...
+2026-01-16 11:24:48,571 - ransomware_detector - INFO - [STOP] Monitoring stopped.
+2026-01-16 11:29:52,836 - ransomware_detector - INFO - [INIT] Watch folder: /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder
+2026-01-16 11:30:04,880 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/j213jf.txt
+2026-01-16 11:30:15,918 - ransomware_detector - INFO - EVENT: deleted | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/j213jf.txt
+2026-01-16 11:30:43,019 - ransomware_detector - INFO - EVENT: created | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt
+2026-01-16 11:30:55,072 - ransomware_detector - INFO - EVENT: modified | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt
+2026-01-16 11:30:55,073 - ransomware_detector - INFO - INTEGRITY: baseline | /Users/raduncr/PycharmProjects/Ransomware_Detector/test_folder/test.txt | sha256=8f51a83ed428...
+2026-01-21 19:58:05,604 - ransomware_detector - INFO - [STOP] Monitoring stopped.
